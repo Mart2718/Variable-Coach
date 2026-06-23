@@ -1,0 +1,6 @@
+{
+  "name": "Variable Coach",
+  "description": "An interactive classroom presentation tool that helps students master Quantitative vs. Categorical variables and Explanatory vs. Response models with dynamic real-world scenarios, visual analogies, and math tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
